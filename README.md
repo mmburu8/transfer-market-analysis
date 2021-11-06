@@ -31,7 +31,7 @@ IDE: Jupyter Notebook
 
 SUPPORT AND CONTACT DETAILS
 
-If you run into an issue, a bug or you have a proble send me an email at mmburu961@gmail.com
+If you run into an issue, a bug or you have a problem send me an email at mmburu961@gmail.com
 
 
 LICENSE
